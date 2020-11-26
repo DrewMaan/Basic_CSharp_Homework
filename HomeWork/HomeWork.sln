@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ComplexNumbersA", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ComplexNumbersB", "Task1.ComplexNumbersB\Task1.ComplexNumbersB.csproj", "{AF601C6E-B286-429A-A103-62A01DC946F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.SumOfOddNumbers", "Task2.SumOfOddNumbers\Task2.SumOfOddNumbers.csproj", "{49412FFE-BEFB-40C9-B208-5091A69C2AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AF601C6E-B286-429A-A103-62A01DC946F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF601C6E-B286-429A-A103-62A01DC946F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF601C6E-B286-429A-A103-62A01DC946F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49412FFE-BEFB-40C9-B208-5091A69C2AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49412FFE-BEFB-40C9-B208-5091A69C2AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49412FFE-BEFB-40C9-B208-5091A69C2AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49412FFE-BEFB-40C9-B208-5091A69C2AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
