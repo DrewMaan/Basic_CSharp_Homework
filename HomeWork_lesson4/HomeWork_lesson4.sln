@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.DemonstrationLibrary"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.CheckLoginAndPassword", "Task4.CheckLoginAndPassword\Task4.CheckLoginAndPassword.csproj", "{DB30056F-407D-4EEB-B35F-0767935CF00E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.TwoDimensionalArray", "Task5.TwoDimensionalArray\Task5.TwoDimensionalArray.csproj", "{2A2AF89F-D6B4-4D95-AECC-E059141DE8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test5.DemonstrationLibrary", "Test5.DemonstrationLibrary\Test5.DemonstrationLibrary.csproj", "{B11BE4B7-68CB-4C81-8BCD-94F7344EE714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2AF89F-D6B4-4D95-AECC-E059141DE8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2AF89F-D6B4-4D95-AECC-E059141DE8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2AF89F-D6B4-4D95-AECC-E059141DE8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2AF89F-D6B4-4D95-AECC-E059141DE8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11BE4B7-68CB-4C81-8BCD-94F7344EE714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11BE4B7-68CB-4C81-8BCD-94F7344EE714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11BE4B7-68CB-4C81-8BCD-94F7344EE714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11BE4B7-68CB-4C81-8BCD-94F7344EE714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
