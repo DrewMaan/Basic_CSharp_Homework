@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3B.ClassForWorkWithArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.DemonstrationLibrary", "Task3.DemonstrationLibrary\Task3.DemonstrationLibrary.csproj", "{AEC42989-FF2E-4410-AED1-B001BC5B62A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.CheckLoginAndPassword", "Task4.CheckLoginAndPassword\Task4.CheckLoginAndPassword.csproj", "{DB30056F-407D-4EEB-B35F-0767935CF00E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AEC42989-FF2E-4410-AED1-B001BC5B62A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC42989-FF2E-4410-AED1-B001BC5B62A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEC42989-FF2E-4410-AED1-B001BC5B62A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB30056F-407D-4EEB-B35F-0767935CF00E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
