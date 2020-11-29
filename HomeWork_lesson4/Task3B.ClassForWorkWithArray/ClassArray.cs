@@ -7,7 +7,16 @@ using System.Threading.Tasks;
 
 namespace Task3B.ClassForWorkWithArray
 {
-    public class ClassArray
+	/*
+	* 
+	* Задача 3 (реализация):
+	* б)** Создать библиотеку содержащую класс для работы с массивом. Продемонстрировать работу библиотеки
+	* е) *** Подсчитать частоту вхождения каждого элемента в массив (коллекция Dictionary<int,int>)
+	* 
+	* Выполнил: Касимовский Андрей
+	* 
+	*/
+	public class ClassArray
 	{
 		private int[] a;
 		Random random = new Random();

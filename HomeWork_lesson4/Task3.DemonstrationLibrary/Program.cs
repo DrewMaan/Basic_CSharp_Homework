@@ -9,6 +9,15 @@ namespace Task3.DemonstrationLibrary
 {
 	class Program
 	{
+		/*
+		 * 
+		 * Задача 3 (демонстрация):
+		 * б)** Создать библиотеку содержащую класс для работы с массивом. Продемонстрировать работу библиотеки
+		 * е) *** Подсчитать частоту вхождения каждого элемента в массив (коллекция Dictionary<int,int>)
+		 * 
+		 * Выполнил: Касимовский Андрей
+		 * 
+		 */
 		static void Main(string[] args)
 		{
 			ClassArray array = new ClassArray(5);
