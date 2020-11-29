@@ -1,0 +1,7 @@
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\bin\Debug\Task1.CountCouple.exe.config
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\bin\Debug\Task1.CountCouple.exe
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\bin\Debug\Task1.CountCouple.pdb
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\obj\Debug\Task1.CountCouple.csprojAssemblyReference.cache
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\obj\Debug\Task1.CountCouple.csproj.CoreCompileInputs.cache
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\obj\Debug\Task1.CountCouple.exe
+D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_Homework\HomeWork_lesson4\Task1.CountCouple\obj\Debug\Task1.CountCouple.pdb
