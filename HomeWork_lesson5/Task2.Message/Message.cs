@@ -15,7 +15,7 @@ namespace Task2.Message
 		{
 			for(int i = 0; i < message.Length; i++)
 			{
-				string[] words = message[i].Split();
+				string[] words = message[i].Split(' ', '.', '(', ')', ',', ';', '{', '}', '\\', '/', '*', '\n', '\t');
 				for(int j = 0; j < words.Length; j++)
 				{
 					if (words[j].Length < lengthWords) Console.Write(words[j] + " ");
@@ -32,8 +32,8 @@ namespace Task2.Message
 
 			for(int i = 0; i < message.Length; i++)
 			{
-				string[] words = message[i].Split();
-				for(int j = 0; j < words.Length; j++)
+				string[] words = message[i].Split(' ', '.', '(', ')', ',', ';', '{', '}', '\\', '/', '*', '\n', '\t');
+				for (int j = 0; j < words.Length; j++)
 				{
 					if (regex.IsMatch(words[j])) words[j] = "";
 				}
@@ -48,8 +48,8 @@ namespace Task2.Message
 			
 			for(int i = 0; i < message.Length; i++)
 			{
-				string[] words = message[i].Split();
-				for(int j = 0; j < words.Length; j++)
+				string[] words = message[i].Split(' ', '.', '(', ')', ',', ';', '{', '}', '\\', '/', '*', '\n', '\t');
+				for (int j = 0; j < words.Length; j++)
 				{
 					if (words[j].Length > longWord.Length) longWord = words[j];
 				}
@@ -67,7 +67,7 @@ namespace Task2.Message
 
 			for (int i = 0; i < message.Length; i++)
 			{
-				string[] words = message[i].Split();
+				string[] words = message[i].Split(' ', '.', '(', ')', ',', ';', '{', '}', '\\', '/', '*', '\n', '\t');
 				for (int j = 0; j < words.Length; j++)
 				{
 					if (words[j].Length == bigestLength) stringBuilder.Append(words[j]);
