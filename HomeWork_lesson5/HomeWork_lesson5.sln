@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ValidLogin", "Task1.V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.Message", "Task2.Message\Task2.Message.csproj", "{4D0421DB-0A4F-4827-B555-A36A029457B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.CompareString", "Task3.CompareString\Task3.CompareString.csproj", "{21572299-A00B-4FD2-B127-5812F8DA74D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.AverageScore", "Task4.AverageScore\Task4.AverageScore.csproj", "{8019C0D6-838A-44CC-88C4-521922993C4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4D0421DB-0A4F-4827-B555-A36A029457B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D0421DB-0A4F-4827-B555-A36A029457B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D0421DB-0A4F-4827-B555-A36A029457B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21572299-A00B-4FD2-B127-5812F8DA74D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21572299-A00B-4FD2-B127-5812F8DA74D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21572299-A00B-4FD2-B127-5812F8DA74D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21572299-A00B-4FD2-B127-5812F8DA74D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8019C0D6-838A-44CC-88C4-521922993C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8019C0D6-838A-44CC-88C4-521922993C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8019C0D6-838A-44CC-88C4-521922993C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8019C0D6-838A-44CC-88C4-521922993C4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
