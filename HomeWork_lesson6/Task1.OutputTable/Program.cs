@@ -5,7 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Task1.OutputTable
-{		
+{
+	/*
+	 * 
+	 * Изменить программу вывода функции так, чтобы можно было передавать функции типа double (double,double). 
+	 * Продемонстрировать работу на функции с функцией a*x^2 и функцией a*sin(x).
+	 * 
+	 * Выполнил: Касимовский Андрей
+	 * 
+	 */
 	public delegate double Fun(double x, double a);
 	class Program
 	{
