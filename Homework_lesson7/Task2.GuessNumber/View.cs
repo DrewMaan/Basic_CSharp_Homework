@@ -3,6 +3,15 @@ using System.Windows.Forms;
 
 namespace Task2.GuessNumber
 {
+	/*
+	 * 
+	 * Используя Windows Forms, разработать игру «Угадай число». 
+	 * Компьютер загадывает число от 1 до 100, а человек пытается его угадать за минимальное число попыток.
+	 * Для ввода данных от человека используется элемент TextBox.
+	 * 
+	 * Выполнил: Касимовский Андрей
+	 * 
+	 */
 	public partial class View : Form
 	{
 		Presenter presenter;
