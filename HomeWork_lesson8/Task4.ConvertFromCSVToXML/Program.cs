@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Serialization;
+
+/*
+ * 
+ * *Написать программу-преобразователь из CSV в XML-файл с информацией о студентах (6 урок).
+ * 
+ * Выполнил: Касимовский Андрей
+ * 
+ */
 
 namespace Task4.ConvertFromCSVToXML
 {

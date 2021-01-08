@@ -2,6 +2,13 @@
 
 namespace Task1.AllPropertiesDateTime
 {
+/*
+ * 
+ * С помощью рефлексии выведите все свойства структуры DateTime
+ * 
+ * Выполнил: Касимовский Андрей
+ * 
+ */
 	class Program
 	{
 		static void Main(string[] args)

@@ -1,6 +1,14 @@
 ﻿using System;
 using System.Windows.Forms;
 
+
+/*
+ * 
+ * Создайте простую форму на котором свяжите свойство Text элемента TextBox со свойством Value элемента NumericUpDown
+ * 
+ * Выполнил: Касимовский Андрей
+ * 
+ */
 namespace Task2.BindingTBoxNUD
 {
 	public partial class Form1 : Form
