@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.GameDoubler", "Task1.GameDoubler\Task1.GameDoubler.csproj", "{A635B397-9297-4E5C-AE0E-8A2329D9E687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.GuessNumber", "Task2.GuessNumber\Task2.GuessNumber.csproj", "{93FEA335-184A-4D3F-8848-5A756192017A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A635B397-9297-4E5C-AE0E-8A2329D9E687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A635B397-9297-4E5C-AE0E-8A2329D9E687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A635B397-9297-4E5C-AE0E-8A2329D9E687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A635B397-9297-4E5C-AE0E-8A2329D9E687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FEA335-184A-4D3F-8848-5A756192017A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FEA335-184A-4D3F-8848-5A756192017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FEA335-184A-4D3F-8848-5A756192017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FEA335-184A-4D3F-8848-5A756192017A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C896D04-ED2F-445B-9BFE-77C5D4A7AD28}
+	EndGlobalSection
+EndGlobal
