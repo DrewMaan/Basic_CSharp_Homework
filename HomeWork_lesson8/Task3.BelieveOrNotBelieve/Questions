@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>1. Ворона и сорока — одно и то же.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>2. Рубанок — инструмент столяра.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>3. Кашпо — вид шарфа.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>4. Бобслей — санный вид спорта.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>5. 23:00 — то же, что 8 часов вечера.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>6. Мэри Поппинс родом из Франции.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>7. Английский алфавит длиннее русского.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>8. В слове «день» 4 звука.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>9. Судно с двумя корпусами — катамаран.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>10. Октябрь — самый длинный осенний месяц.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>11. Столица Египта — Каир. </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>12. Фортепиано относится к духовым инструментам. </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>13. Война с Наполеоном была в 1812 году.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>14. Изумруд — камень синего цвета. </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>15. Суши — японское блюдо.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>16. Рождество в России отмечают 14 января.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>17. Цветик-семицветик исполнял желания.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>18. Антрекот — это пирожное.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>19. Емеля поймал Золотую рыбку.</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>20. Если сегодня четверг, то позавчера был вторник.</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+</ArrayOfQuestion>
